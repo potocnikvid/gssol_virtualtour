@@ -12,9 +12,9 @@
 }
 @font-face {
    font-family: "Oswald";
-   src: url("fonts/Oswald Bold.woff") format("woff"), url("fonts/Oswald Bold.eot") format("embedded-opentype"), url("fonts/Oswald Bold.ttf") format("truetype"), url("fonts/Oswald Bold.svg") format("svg");
+   src: url("fonts/Oswald BoldItalic.woff2") format("woff2");
    font-weight: bold;
-   font-style: normal;
+   font-style: italic;
 }
 @font-face {
    font-family: "Oswald";
@@ -24,7 +24,7 @@
 }
 @font-face {
    font-family: "Oswald";
-   src: url("fonts/Oswald BoldItalic.woff2") format("woff2");
+   src: url("fonts/Oswald Bold.woff") format("woff"), url("fonts/Oswald Bold.eot") format("embedded-opentype"), url("fonts/Oswald Bold.ttf") format("truetype"), url("fonts/Oswald Bold.svg") format("svg");
    font-weight: bold;
-   font-style: italic;
+   font-style: normal;
 }
